@@ -1,5 +1,9 @@
-3
-12
-23
-34
+7
+abc
+bcd
+efg
+bcd
+efg
+abc
+abc
 
