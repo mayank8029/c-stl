@@ -1,9 +1,4 @@
-7
-abc
-bcd
-efg
-bcd
-efg
-abc
-abc
-
+3
+{}
+[]
+()
